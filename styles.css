@@ -76,10 +76,11 @@ nav{
     background: linear-gradient(#faf7f4, rgb(236,55,80,0.2));
     border-radius: 28px;
     gap: 20px;
-    height:max-content;
+    height:400px;
 }
 .hero-text{
     width:60%;
+    margin: 10px;
 }
 .hero-text h1{
     color:#ec3750;
@@ -107,7 +108,7 @@ nav{
     box-shadow: 0 10px 30px rgba(0,0,0,0.08);
 }
 .about {
-  height:300px;
+  height:500px;
   display:flex;
   flex-direction: column;
   justify-content: center;
@@ -116,14 +117,19 @@ nav{
 .about h1{
     color:#ec3750;
     font-weight: 1000;
+    font-size:50px;
     border: none;
     text-decoration:underline;
     text-decoration-color: #33d6a6;
-    text-decoration-thickness: 2px;
-    
+    text-decoration-thickness: 4px;
+    padding-bottom: 0px;
+}
+.about p{
+    font-size: large;
 }
 .about h5{
     color:#ff8c37;
+    font-size: x-large;
 }
 
 .what-we-do {
@@ -134,26 +140,46 @@ nav{
     color:#ec3750;
     text-decoration: underline;
     text-decoration-color: #33d6a6;
-    text-decoration-thickness: 2px;
+    text-decoration-thickness: 4px;
+    font-size: 50px;
+}
+.card-layout{
+    margin: 30px;
+    display:flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
 }
 .card {
     display:flex;
-    gap:20px
-}
-.card{
-  background-color: #33d6a6;
-  padding:20px;
-  border-radius: 20px;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.05);
-  width: 600px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+    background-color: rgb(51, 214, 166,0.3);
+    padding:10px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
 }
 .card img{
     width:180px;
     border-radius: 20px;
+    margin:20px;
 }
 .card-text{
   display:flex;
   flex-direction: column;
   justify-content: center;
-
+  align-items: center;
+  text-align: center;
+}
+.projects h1{
+    color:#ec3750;
+    text-decoration: underline;
+    text-decoration-color: #33d6a6;
+    text-decoration-thickness: 4px;
+    font-size: 50px;
 }
