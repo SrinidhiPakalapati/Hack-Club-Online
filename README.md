@@ -12,3 +12,4 @@ HTML and CSS
 
 # Important Note 
 
+This club is currently closed since this is an online club. We will soon figure out what to do and soon again open it. Hopefully!!!
