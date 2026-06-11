@@ -184,11 +184,13 @@ nav{
     font-size: 50px;
 }
 .project-cards-layout {
-    display:flex;
+    display:grid;
+    grid-auto-flow: column;
+    overflow-x: auto; 
+    -webkit-overflow-scrolling: touch; 
     align-items: center;
     justify-content: center;
     gap:24px;
-    overflow-x: auto;
     padding:20px;
 }
 .project-card {
@@ -212,14 +214,4 @@ nav{
     text-decoration: none;
     text-decoration-color: #ec3750;
     color: #ec3750;
-}
-.note h1{
-    color:#ec3750;
-    text-align:center;
-    background-color:black;
-    padding:20px;
-    border-style: solid;
-    border-radius: 10px;
-    border-color:#ec3750;
-    border-width: 10px;
 }
