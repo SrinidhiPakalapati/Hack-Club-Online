@@ -4,19 +4,19 @@ This is a website for a hack club chapter which runs completely online with week
 
 # Tech Used
 
-HTML
-CSS
-and my brain 🧠🧠 :))
+HTML<br>
+CSS<br>
+and my brain 🧠🧠 :))<br>
 
 # Preview of the Site
 
 ![full screenshot of site](image.png)
 
 # Things I have learned while making this site.
-Horizontal Scrool
-Implimenting Navigation bar
-Styling a button
-Outlining a piece of Text
+Horizontal Scrool<br>
+Implimenting Navigation bar<br>
+Styling a button<br>
+Outlining a piece of Text<br>
 
 # Important Note 
 
