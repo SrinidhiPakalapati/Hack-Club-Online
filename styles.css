@@ -229,5 +229,12 @@ nav{
 .motto h3{
     color:#ec3750;
     -webkit-text-stroke: 1px black;
-    
+}
+.deactivated {
+    text-align:center;
+    background-color:black;
+    padding:20px;
+    border-radius:20px;
+    color:#ec3750;
+    font-weight: 300;
 }
