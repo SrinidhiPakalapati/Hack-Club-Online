@@ -223,3 +223,11 @@ nav{
     margin-right: 400px;
     border-radius: 20px;
 }
+.motto h1{
+    color:#faf7f4;
+}
+.motto h3{
+    color:#ec3750;
+    -webkit-text-stroke: 1px black;
+    
+}
