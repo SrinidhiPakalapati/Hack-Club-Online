@@ -215,3 +215,11 @@ nav{
     text-decoration-color: #ec3750;
     color: #ec3750;
 }
+.motto {
+    text-align: center;
+    background-color: #ec3750;
+    padding:20px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 20px;
+}
