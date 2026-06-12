@@ -4,9 +4,9 @@ This is a website for a hack club chapter which runs completely online with week
 
 # Tech Used
 
-HTML<br>
-CSS<br>
-and my brain 🧠🧠 :))<br>
+Structure:HTML<br>
+Styling: CSS<br>
+Altogther mixing: brain 🧠🧠 :))<br>
 
 # Preview of the Site
 
