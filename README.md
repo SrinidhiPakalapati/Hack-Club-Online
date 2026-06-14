@@ -22,5 +22,10 @@ Outlining a piece of Text<br>
 
 This club is currently closed since this is an online club. We will soon figure out what to do and soon again open it. Hopefully!!!
 
+# Website inspirations and helps
+https://hackclub.com/ <br>
+https://hackclub.com/brand <br>
+Chatgpt Pro (A little bit to know more about web dev)
+
 # Deployment
 Used Github Pages - https://srinidhipakalapati.github.io/Hack-Club-Online/
